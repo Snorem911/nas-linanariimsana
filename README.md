@@ -1,0 +1,2 @@
+# nas-linanariimsana
+açmayın awk
